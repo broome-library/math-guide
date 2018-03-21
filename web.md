@@ -1,6 +1,6 @@
 # Web Resources
 
-## [Google Books](https:/www.google.com/search?tbm=bks&hl=en&q=math#hl=en&q=mathematics&tbm=bks)
+## [Google Books](https:/www.google.com/search?tbm=bks&hl=en&q=math#hl=en&q=mathematics&tbm=bks "Google Books Mathematics Search")
 
 > Free books and book previews in a variety of topics related to mathematics.
 
