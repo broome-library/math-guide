@@ -4,6 +4,10 @@
 
 > Free books and book previews in a variety of topics related to mathematics.
 
+## [Khan Academy](https://www.khanacademy.org/math)
+
+> Khan Academy is a not-for-profit agency providing multi-level, multi-disciplinary educational resources on the web.  Mathematics is among Khan Academy's strongest area.
+
 ## [Mathematical Sciences Research Institute](http://www.msri.org/web/msri)
 
 > A independent non-profit research institute located at the University of California, Berkeley. MSRI is primarily funded by the National Science Foundation and is dedicated to the advancement of pure, applied, and interdisciplinary mathematics.
