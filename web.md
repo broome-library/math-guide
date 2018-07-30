@@ -6,7 +6,7 @@
 
 ## [Khan Academy](https://www.khanacademy.org/math)
 
-> Khan Academy is a not-for-profit agency providing multi-level, multi-disciplinary educational resources on the web.  Mathematics is among Khan Academy's strongest area.
+> Khan Academy is a not-for-profit agency providing multi-level, multi-disciplinary educational resources on the web.  Mathematics is among Khan Academy's strongest areas.
 
 ## [Mathematical Sciences Research Institute](http://www.msri.org/web/msri)
 
