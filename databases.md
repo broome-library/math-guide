@@ -8,7 +8,7 @@
 
 > Free full text journals covering an array of scholarly subjects including mathematics and statistics.
 
-## [JSTOR - Mathematics and Statistics](http://summit.csuci.edu:2048/login?url=http://www.jstor.org/action/showJournals?browseType=collectionInfoPage&selectCollection=mathstat)
+## [JSTOR - Mathematics and Statistics](https://www-jstor-org.summit.csuci.edu/subject/mathematics)
 
 > This collection brings together over 50 titles in the mathematical and statistical sciences from existing JSTOR collections.
 
