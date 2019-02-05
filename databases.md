@@ -32,6 +32,10 @@
 
 > ScienceDirect is an information source for scientific, technical, and medical research. The database features more than 10 million articles.
 
+## [Scitation®: American Institute of Physics](http://summit.csuci.edu/login?url=http://www.scitation.org/)
+
+> News, comment, analysis and research in the Physical Sciences including hundreds of thousands of articles related to mathematics
+
 ## [Wiley Interscience](http://summit.csuci.edu:2048/login?url=http://onlinelibrary.wiley.com)
 
 > Wiley Online Library features access to over 4 million articles and 10,000 online books, including mathematics and statistics.
