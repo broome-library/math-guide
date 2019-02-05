@@ -12,6 +12,10 @@
 
 > Free full text journals covering an array of scholarly subjects including mathematics and statistics.
 
+## [IEEE Xplore - \[Institute of Electrical and Electronics Engineers\]](http://summit.csuci.edu/login?url=http://ieeexplore.ieee.org/Xplore/dynhome.jsp)
+
+> Full text access to technical literature in engineering and technology
+
 ## [JSTOR - Mathematics and Statistics](https://www-jstor-org.summit.csuci.edu/subject/mathematics)
 
 > This collection brings together over 50 titles in the mathematical and statistical sciences from existing JSTOR collections.
