@@ -1,5 +1,9 @@
 # Databases
 
+## [ACM Digital Library](http://summit.csuci.edu/login?url=http://portal.acm.org/)
+
+> Contains the full text of all ACM \(Association for Computing Machinery\) publications plus a collection of full-text publications from select publishers.
+
 ## [arXiv](http://arxiv.org/)
 
 > Open access database from Cornell University featuring 750,685 e-prints related to physics, mathematics, computer science, quantitative biology, and quantitative finance and statistics.
