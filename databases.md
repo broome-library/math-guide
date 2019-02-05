@@ -12,7 +12,7 @@
 
 > Free full text journals covering an array of scholarly subjects including mathematics and statistics.
 
-## [IEEE Xplore - \[Institute of Electrical and Electronics Engineers\]](http://summit.csuci.edu/login?url=http://ieeexplore.ieee.org/Xplore/dynhome.jsp)
+## [IEEE Xplore®: Institute of Electrical and Electronics Engineers](http://summit.csuci.edu/login?url=http://ieeexplore.ieee.org/Xplore/dynhome.jsp)
 
 > Full text access to technical literature in engineering and technology
 
