@@ -18,7 +18,7 @@
 
 ## [Quantitative Reasoning - ETS / GRE Guidance](https://www.ets.org/gre/revised_general/prepare/quantitative_reasoning/)
 
-> The Graduate Record Examination \(GRE\) from Educational Testing Service \(ETS\) incorporates Quantitative Reasoning \(QR\) including questions from real life situations as well as pure math.  The link leads to and intro to QR for GRE prep.
+> The Graduate Record Examination \(GRE\) from Educational Testing Service \(ETS\) incorporates Quantitative Reasoning \(QR\) including questions from real life situations as well as pure math.  The link leads to an intro to QR for GRE prep.
 
 ## [Research in Scientific Computing in Undergraduate Education](http://compmath.wordpress.com/)
 
